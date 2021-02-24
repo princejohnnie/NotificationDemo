@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">NotificationDemo</string>
+    <string name="title_hint">Title</string>
+    <string name="message_hint">Message</string>
+    <string name="send_channel1">Send on Channel 1</string>
+    <string name="send_channel2">Send On Channel 2</string>
+    <string name="long_text">This is long text and it is supposed to be long and it will continue to be long because it is supposed to be long although it is used for just an example</string>
+</resources>
